@@ -1,0 +1,11 @@
+123.py
+__pycache__/
+bot.log
+bottg
+chisla.py
+hello.py
+kak.py
+*.log
+settings.py
+.vscode/
+.env/
